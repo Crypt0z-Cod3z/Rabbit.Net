@@ -1,0 +1,8 @@
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\obj\Debug\Rabbit.Net.TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\bin\Debug\Rabbit.Net.TestConsole.exe.config
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\bin\Debug\Rabbit.Net.TestConsole.exe
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\bin\Debug\Rabbit.Net.TestConsole.pdb
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\bin\Debug\Rabbit.Net.dll
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\bin\Debug\Rabbit.Net.pdb
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\obj\Debug\Rabbit.Net.TestConsole.exe
+C:\Users\Brian_2\Documents\SharpDevelop Projects\Rabbit.Net.TestConsole\Rabbit.Net.TestConsole\obj\Debug\Rabbit.Net.TestConsole.pdb
